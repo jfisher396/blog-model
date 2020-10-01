@@ -1,4 +1,4 @@
 # blog-model
 
 ## image
-[screenshot](/media/blog-model-ss.png)
+(/media/blog-model-ss.png)

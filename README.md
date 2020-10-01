@@ -1,4 +1,4 @@
 # blog-model
 
 ## image
-(/media/blog-model-ss.png)
+https://github.com/jfisher396/blog-model/blob/main/media/blog-model-ss.png
